@@ -1,0 +1,37 @@
+Relevancia del proyecto: Cual seria la idea de coleccionar todos los datos. Y su categorizacion. 
+
+Armado del sistema, cual serian sus caracteristicas.
+Armado de patrones, reoconocimiento de datos
+
+Dividir, SW con Recoleccion de datos. 
+SW re reconocimiento, y SW de almacenamiento.
+
+Mas barreras, como barreras en el sonido...
+Barreras tecnicas
+
+Reflajar el mail en el trabajo.......
+
+Proximo paso, cronograma, plan y tareas.
+El proceso, hacer un sistema de reconocimiento..
+Por otro lado, recoleccion de datos e incorporar y categorizar.
+
+Problemas para verificar los sonidos.
+
+Limites del proyecto, problemas que no hacen ruidos. 
+----------------------------------------------------------------------------------------------------------
+
+Avisos peligrosos....
+
+Se puede ver como hace reconocimientos de huellas, iris, mas que nada para la esctructura de reconocimiento como tal
+
+
+
+
+
+
+
+
+
+
+
+
